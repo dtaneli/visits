@@ -42255,6 +42255,11 @@
       "type": "Feature",
       "id": "USA",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#80ff80",
+        "fill-opacity": 0.5,
         "name": "United States of America"
       },
       "geometry": {
